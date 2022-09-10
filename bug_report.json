@@ -1,0 +1,14 @@
+{
+  "id": "1",
+  "title":"open button",
+  "project":"FHR",
+  "version":"1.02",
+  "STR":"1. Login as Admin 2. Go to a course page 3. Turn editing on 4. Add a "Label" resource 5. On the following page, enter some arbitrary label text 6. Press the Save button",
+  "expected result":"app opens",
+  "actual result":"app crashed",
+  "discriptions":"app crashes whenever there’s an unexpected exit caused by an unhandled exception or signal"
+  "status":"In Progress",
+  "severity": "Blocker",
+  "priority":"high",
+  "attachments":"https://beqa.pro/blog/%D0%B1%D0%B0%D0%B3-%D0%B8-%D0%B1%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82/"
+}
